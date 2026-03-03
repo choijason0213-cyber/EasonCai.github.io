@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://choijason0213-cyber.github.io/EasonCai/cn/categories/</loc>
+    <loc>https://choijason0213-cyber.github.io/EasonCai.github.io/cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://choijason0213-cyber.github.io/EasonCai/categories/"
+                href="https://choijason0213-cyber.github.io/EasonCai.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://choijason0213-cyber.github.io/EasonCai/cn/categories/"
+                href="https://choijason0213-cyber.github.io/EasonCai.github.io/cn/categories/"
                 />
   </url><url>
-    <loc>https://choijason0213-cyber.github.io/EasonCai/cn/</loc>
+    <loc>https://choijason0213-cyber.github.io/EasonCai.github.io/cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://choijason0213-cyber.github.io/EasonCai/"
+                href="https://choijason0213-cyber.github.io/EasonCai.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://choijason0213-cyber.github.io/EasonCai/cn/"
+                href="https://choijason0213-cyber.github.io/EasonCai.github.io/cn/"
                 />
   </url><url>
-    <loc>https://choijason0213-cyber.github.io/EasonCai/cn/tags/</loc>
+    <loc>https://choijason0213-cyber.github.io/EasonCai.github.io/cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://choijason0213-cyber.github.io/EasonCai/tags/"
+                href="https://choijason0213-cyber.github.io/EasonCai.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://choijason0213-cyber.github.io/EasonCai/cn/tags/"
+                href="https://choijason0213-cyber.github.io/EasonCai.github.io/cn/tags/"
                 />
   </url>
 </urlset>
